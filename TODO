@@ -1,0 +1,5 @@
+* Use CachedFunc from central
+* Use BoundFunc from central
+* Add fade-out to net config menu
+* Canvas: Consider using LinkedDict
+* What to do about setting fog from 0 to something else?
